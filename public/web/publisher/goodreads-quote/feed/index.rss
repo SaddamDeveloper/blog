@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Goodreads Quote	</title>
+	<atom:link href="https://typer.seventhqueen.com/publisher/goodreads-quote/feed/" rel="self" type="application/rss+xml" />
+	<link>https://typer.seventhqueen.com/publisher/goodreads-quote/</link>
+	<description>Publishing platform template for Wordpress</description>
+	<lastBuildDate>Mon, 06 Jan 2020 23:25:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: Demo Account		</title>
+		<link>https://typer.seventhqueen.com/publisher/goodreads-quote/#comment-100</link>
+
+		<dc:creator><![CDATA[Demo Account]]></dc:creator>
+		<pubDate>Mon, 06 Jan 2020 23:25:19 +0000</pubDate>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=94#comment-100</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://typer.seventhqueen.com/publisher/goodreads-quote/#comment-38&quot;&gt;Roberto&lt;/a&gt;.
+
+meh]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://typer.seventhqueen.com/publisher/goodreads-quote/#comment-38">Roberto</a>.</p>
+<p>meh</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Roberto		</title>
+		<link>https://typer.seventhqueen.com/publisher/goodreads-quote/#comment-38</link>
+
+		<dc:creator><![CDATA[Roberto]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2019 12:42:57 +0000</pubDate>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=94#comment-38</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://typer.seventhqueen.com/publisher/goodreads-quote/#comment-37&quot;&gt;Roberto&lt;/a&gt;.
+
+A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one. ― George R.R. Martin, A Dance with Dragons.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://typer.seventhqueen.com/publisher/goodreads-quote/#comment-37">Roberto</a>.</p>
+<p>A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one. ― George R.R. Martin, A Dance with Dragons.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Roberto		</title>
+		<link>https://typer.seventhqueen.com/publisher/goodreads-quote/#comment-37</link>
+
+		<dc:creator><![CDATA[Roberto]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2019 12:41:31 +0000</pubDate>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=94#comment-37</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://typer.seventhqueen.com/publisher/goodreads-quote/#comment-36&quot;&gt;Roberto&lt;/a&gt;.
+
+I\&#039;ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel. ― Maya Angelou]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://typer.seventhqueen.com/publisher/goodreads-quote/#comment-36">Roberto</a>.</p>
+<p>I\&#8217;ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel. ― Maya Angelou</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Roberto		</title>
+		<link>https://typer.seventhqueen.com/publisher/goodreads-quote/#comment-36</link>
+
+		<dc:creator><![CDATA[Roberto]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2019 12:40:49 +0000</pubDate>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=94#comment-36</guid>
+
+					<description><![CDATA[If you tell the truth, you don\&#039;t have to remember anything. ― Mark Twain]]></description>
+			<content:encoded><![CDATA[<p>If you tell the truth, you don\&#8217;t have to remember anything. ― Mark Twain</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

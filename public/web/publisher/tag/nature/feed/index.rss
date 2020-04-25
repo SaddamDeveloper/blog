@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nature &#8211; Publisher</title>
+	<atom:link href="https://typer.seventhqueen.com/publisher/tag/nature/feed/?layout=boxed" rel="self" type="application/rss+xml" />
+	<link>https://typer.seventhqueen.com/publisher</link>
+	<description>Publishing platform template for Wordpress</description>
+	<lastBuildDate>Wed, 09 Oct 2019 15:10:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+
+<image>
+	<url>https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/12/cropped-favicon-32x32.png</url>
+	<title>Nature &#8211; Publisher</title>
+	<link>https://typer.seventhqueen.com/publisher</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Revealing a Deeper Nature in Illustrations</title>
+		<link>https://typer.seventhqueen.com/publisher/revealing-a-deeper-nature-in-illustrations/</link>
+					<comments>https://typer.seventhqueen.com/publisher/revealing-a-deeper-nature-in-illustrations/#comments</comments>
+		
+		<dc:creator><![CDATA[Gabriel]]></dc:creator>
+		<pubDate>Fri, 04 Oct 2019 11:55:03 +0000</pubDate>
+				<category><![CDATA[Gallery]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Illustrations]]></category>
+		<category><![CDATA[Nature]]></category>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/publisher/?p=1792</guid>
+
+					<description><![CDATA[There exist many similar, albeit lesser known, forms of art. The artwork used in The Black Forest is a prime example. The black forest consists of a large number of mountains, fields, lakes, and waterfalls. In the center of each of the mountains is a stone, where a stone cut of ice is in place. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">There exist many similar, albeit lesser known, forms of art. The artwork used in The Black Forest is a prime example. The black forest consists of a large number of mountains, fields, lakes, and waterfalls. In the center of each of the mountains is a stone, where a stone cut of ice is in place. The waterfalls are in the form of streams made of water in a frozen state.</p>
+
+
+
+<p>These waterfalls are linked by one connecting waterfall, which is the source of the ice that forms a conduit to the other two. This stone was carved by the Elves of the White Forest, and carved by the Elves of Gondor.</p>
+
+
+
+<div class="wp-block-image is-floated"><figure class="alignright"><img src="https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/10/illustration_hills_01.min_-1024x768.jpg" alt="" class="wp-image-1793" srcset="https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/10/illustration_hills_01.min_-1024x768.jpg 1024w, https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/10/illustration_hills_01.min_-300x225.jpg 300w, https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/10/illustration_hills_01.min_-768x576.jpg 768w, https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/10/illustration_hills_01.min_-45x34.jpg 45w, https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/10/illustration_hills_01.min_.jpg 1600w" sizes="(min-width: 960px) 75vw, 100vw" /></figure></div>
+
+
+
+<p>This stone was used for the &#8220;Tree of Life&#8221; and &#8220;Tree of Memory.&#8221; There are also similar works of art found that have a more earthly appearance, although that is not to say they were never of an architectural or artistic nature.</p>
+
+
+
+<p>These works of art may have been created by the Elves of Elvish descent.</p>
+
+
+
+<p>To bring some of your new insights into light, we&#8217;ve teamed up with illustrator Kevin Murphy to present these fascinating new illustrations that illuminate a much more important aspect of the life of the Ancient Greeks.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://typer.seventhqueen.com/publisher/revealing-a-deeper-nature-in-illustrations/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

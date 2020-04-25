@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Happy Bubble Time With Your Friends!	</title>
+	<atom:link href="https://typer.seventhqueen.com/publisher/happy-bubble-time/feed/" rel="self" type="application/rss+xml" />
+	<link>https://typer.seventhqueen.com/publisher/happy-bubble-time/</link>
+	<description>Publishing platform template for Wordpress</description>
+	<lastBuildDate>Sat, 30 Nov 2019 01:40:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: Garlie		</title>
+		<link>https://typer.seventhqueen.com/publisher/happy-bubble-time/#comment-58</link>
+
+		<dc:creator><![CDATA[Garlie]]></dc:creator>
+		<pubDate>Sat, 30 Nov 2019 01:40:46 +0000</pubDate>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=496#comment-58</guid>
+
+					<description><![CDATA[Theme looks nice, still checking its features.]]></description>
+			<content:encoded><![CDATA[<p>Theme looks nice, still checking its features.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Robert		</title>
+		<link>https://typer.seventhqueen.com/publisher/happy-bubble-time/#comment-4</link>
+
+		<dc:creator><![CDATA[Robert]]></dc:creator>
+		<pubDate>Thu, 29 Aug 2019 14:32:30 +0000</pubDate>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=496#comment-4</guid>
+
+					<description><![CDATA[My first comment!]]></description>
+			<content:encoded><![CDATA[<p>My first comment!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

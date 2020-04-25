@@ -2,17 +2,18 @@
 
 use Illuminate\Support\Facades\Route;
 
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider within a group which
-| contains the "web" middleware group. Now create something great!
-|
-*/
+require __DIR__.'/frontend.php';
 
-Route::get('/', function () {
-    return view('welcome');
-});
+/***
+ * Admin Login Control
+ */
+Route::get('/admin/login', 'Admin\AdminLoginController@showAdminLoginForm')->name('admin.login');
+Route::post('/admin/login', 'Admin\AdminLoginController@adminLogin');
+Route::post('/admin/logout', 'Admin\AdminLoginController@logout')->name('admin.logout');
+
+/***
+ * Member Login Control
+ */
+Route::get('/member/login', 'Member\MemberLoginController@showMemberLoginForm')->name('member.login');
+Route::post('/member/login', 'Member\MemberLoginController@memberLogin');
+Route::post('/member/logout', 'Member\MemberLoginController@logout')->name('member.logout');

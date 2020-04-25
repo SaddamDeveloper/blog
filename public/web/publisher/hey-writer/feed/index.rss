@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Hey, Writer!	</title>
+	<atom:link href="https://typer.seventhqueen.com/publisher/hey-writer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://typer.seventhqueen.com/publisher/hey-writer/</link>
+	<description>Publishing platform template for Wordpress</description>
+	<lastBuildDate>Mon, 16 Mar 2020 11:18:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: Demo Account		</title>
+		<link>https://typer.seventhqueen.com/publisher/hey-writer/#comment-128</link>
+
+		<dc:creator><![CDATA[Demo Account]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2020 11:18:32 +0000</pubDate>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=315#comment-128</guid>
+
+					<description><![CDATA[test]]></description>
+			<content:encoded><![CDATA[<p>test</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

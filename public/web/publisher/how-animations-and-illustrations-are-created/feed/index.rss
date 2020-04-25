@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: How Animations and Illustrations are Created	</title>
+	<atom:link href="https://typer.seventhqueen.com/publisher/how-animations-and-illustrations-are-created/feed/?layout=boxed" rel="self" type="application/rss+xml" />
+	<link>https://typer.seventhqueen.com/publisher/how-animations-and-illustrations-are-created/</link>
+	<description>Publishing platform template for Wordpress</description>
+	<lastBuildDate>Thu, 27 Feb 2020 06:55:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: Demo Account		</title>
+		<link>https://typer.seventhqueen.com/publisher/how-animations-and-illustrations-are-created/#comment-123</link>
+
+		<dc:creator><![CDATA[Demo Account]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2020 06:55:02 +0000</pubDate>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/publisher/?p=1771#comment-123</guid>
+
+					<description><![CDATA[Amazing theme, just browsing.]]></description>
+			<content:encoded><![CDATA[<p>Amazing theme, just browsing.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

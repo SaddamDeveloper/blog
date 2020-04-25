@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Virtual Reality &#8211; Publisher</title>
+	<atom:link href="https://typer.seventhqueen.com/publisher/tag/virtual-reality/feed/?layout=boxed" rel="self" type="application/rss+xml" />
+	<link>https://typer.seventhqueen.com/publisher</link>
+	<description>Publishing platform template for Wordpress</description>
+	<lastBuildDate>Mon, 16 Sep 2019 13:17:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+
+<image>
+	<url>https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/12/cropped-favicon-32x32.png</url>
+	<title>Virtual Reality &#8211; Publisher</title>
+	<link>https://typer.seventhqueen.com/publisher</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Becoming a Virtual Reality Designer</title>
+		<link>https://typer.seventhqueen.com/publisher/becoming-a-virtual-reality-designer/</link>
+					<comments>https://typer.seventhqueen.com/publisher/becoming-a-virtual-reality-designer/#comments</comments>
+		
+		<dc:creator><![CDATA[Ken]]></dc:creator>
+		<pubDate>Tue, 20 Aug 2019 13:13:13 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Virtual Reality]]></category>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=621</guid>
+
+					<description><![CDATA[As VR technology is evolving, it is challenging for designers to use it effectively. Even with years of experience, many traditional design professionals feel stuck, unable to push the limits of immersion, and not able to create virtual prototypes of what they want. In fact, a lot of these conventional industry professionals feel like the [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">As VR technology is evolving, it is challenging for designers to use it effectively. Even with years of experience, many traditional design professionals feel stuck, unable to push the limits of immersion, and not able to create virtual prototypes of what they want. In fact, a lot of these conventional industry professionals feel like the technology is &#8220;too big&#8221; and not sufficiently accessible. This leaves us with designers who feel that it is just not possible, because the technology is so abstract or difficult to understand. This disconnect is becoming increasingly apparent in industry.</p>
+
+
+
+<div class="wp-block-image is-floated"><figure class="alignright"><img src="https://typer.seventhqueen.com/wp-content/uploads/2019/08/1629.min_.jpg" alt="" class="wp-image-634"/></figure></div>
+
+
+
+<p>One common experience of VR developer is the disappointment of being unable to deliver a prototype and learn from it.</p>
+
+
+
+<p>The process starts when you start exploring more abstract possibilities with virtual reality. From that start the concept of a &#8220;prototype&#8221; gets abstracted from you and becomes another term for something that is merely a &#8220;proof of concept&#8221;. The concept of an &#8220;actual&#8221; prototype becomes less and less important to you as you move further away from the goal. Your &#8220;pros to learn from&#8221; starts to become meaningless.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Becoming a Virtual Reality Designer</strong>&nbsp;is not easy. However the skill that you need to learn can easily be learned even easily.<br></p></blockquote>
+
+
+
+<p>I am no different. I worked as a software engineer for many years, and learned many techniques. Now, as a virtual reality designer and web developer, I have grown up with tools which are easily accessible to me, and the knowledge I can gain from developing these types of applications for virtual reality. Therefore I have dedicated myself to learning other virtual reality technologies and tools over the next year or so.</p>
+
+
+
+<div class="wp-block-image is-floated"><figure class="alignleft"><img src="https://typer.seventhqueen.com/wp-content/uploads/2019/08/vr-glasses.min_-1024x527.jpg" alt="" class="wp-image-637"/></figure></div>
+
+
+
+<p>Here is an example of what I am currently learning. I recently attended the 3rd VR World Congress (VRWorlds) from January 11th to 28th, 2016. I had a chance to speak with a number of interesting developers who were passionate about VR and VR-related topics. </p>
+
+
+
+<p>We had a fascinating time, and one of the things I learned is that while virtual reality is growing, there still needs to be dedicated resources for it. While most of our community are currently focused on building VR demos and training for VR players, there is still a large amount of work to be done.</p>
+
+
+
+<p>So I have focused my efforts on creating dedicated resources for virtual reality in general and for VR games specifically for all platforms.</p>
+
+
+
+<p>There are various forums and community groups, forums, and forum support programs online, but there still needs to be dedicated dedicated resources dedicated to virtual reality for PC</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://typer.seventhqueen.com/publisher/becoming-a-virtual-reality-designer/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

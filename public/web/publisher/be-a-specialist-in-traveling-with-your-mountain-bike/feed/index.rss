@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Be a Specialist in Traveling with Your Mountain Bike	</title>
+	<atom:link href="https://typer.seventhqueen.com/publisher/be-a-specialist-in-traveling-with-your-mountain-bike/feed/" rel="self" type="application/rss+xml" />
+	<link>https://typer.seventhqueen.com/publisher/be-a-specialist-in-traveling-with-your-mountain-bike/</link>
+	<description>Publishing platform template for Wordpress</description>
+	<lastBuildDate>Tue, 15 Oct 2019 15:12:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+</channel>
+</rss>

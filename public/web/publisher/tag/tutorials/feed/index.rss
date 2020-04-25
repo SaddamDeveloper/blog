@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tutorials &#8211; Publisher</title>
+	<atom:link href="https://typer.seventhqueen.com/publisher/tag/tutorials/feed/?layout=boxed" rel="self" type="application/rss+xml" />
+	<link>https://typer.seventhqueen.com/publisher</link>
+	<description>Publishing platform template for Wordpress</description>
+	<lastBuildDate>Tue, 15 Oct 2019 15:27:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+
+<image>
+	<url>https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/12/cropped-favicon-32x32.png</url>
+	<title>Tutorials &#8211; Publisher</title>
+	<link>https://typer.seventhqueen.com/publisher</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to easily do Object Detection on Drone Imagery using Deep learning</title>
+		<link>https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/</link>
+					<comments>https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/#comments</comments>
+		
+		<dc:creator><![CDATA[Ken]]></dc:creator>
+		<pubDate>Tue, 20 Aug 2019 09:15:08 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Drone]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=516</guid>
+
+					<description><![CDATA[There are also ways to easily detect objects in complex programs without even doing the object detection yourself. For example, to detect arrays, you have to know exactly what values they contain (this will be explained in more detail later). How to easily do Object Detection with Javacsript Consider the following JavaScript code. The variable [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">There are also ways to easily detect objects in complex programs without even doing the object detection yourself. For example, to detect arrays, you have to know exactly what values they contain (this will be explained in more detail later).</p>
+
+
+
+<h4><strong>How to easily do Object Detection with Javacsript</strong></h4>
+
+
+
+<p>Consider the following JavaScript code. The variable name contains 2 items (i.e. a comma-separated array). A user can check the number of items inside of the array by writing &#8220;foo&#8221; as &#8220;1,2,3&#8221;;</p>
+
+
+
+<pre class="wp-block-preformatted wp-block-svq-code prettyprint">var array = [1] + "Baz";
+var foo = [1,2];
+for (var i = 1; i &lt;= array.length; i++) {
+foo[i] = 5;
+}</pre>
+
+
+
+<div class="wp-block-image is-floated"><figure class="alignleft"><img src="https://typer.seventhqueen.com/wp-content/uploads/2019/08/548.min_.jpg" alt="" class="wp-image-541"/></figure></div>
+
+
+
+<p>A few years ago I worked on a new project called Signal Detection and Recognition, which uses an X-Ray image acquired during spaceflight to identify spacecraft.</p>
+
+
+
+<p>I wrote that implementation in C and then ran the program against it using gdb.</p>
+
+
+
+<p>In this post we will explain how that was done. You can read my prior post about the implementation here; if you enjoy this blog, we can also discuss the new feature in Go here or the upcoming rewrite of X-Ray to work better with Go.</p>
+
+
+
+<p>Now let&#8217;s dive into the very easy part of Object <sup class="svq-sidelink" data-svq-note="3"><a href="javascript:void(0)" >3</a></sup><span class="svq-sidenote will-animate" data-cssanimate="fadeIn" data-svq-note="3">Object-oriented programming(OOP) is aprogramming paradigm based on the concept of &#8220;objects&#8221;, which can contain data, in the form of fields, and code, in the form ofprocedures (often known as methotds).</span> detection with us. We will learn how one uses the Javacript language to understand some common constructs.</p>
+
+
+
+<p>This includes understanding the syntax of some common patterns and patterns like the return types of Javacript and how to generate a class of some class. Before we step away from Javacript though, here is your first piece of Java Object detection with us.</p>
+
+
+
+<h6>OCR Function:</h6>
+
+
+
+<pre class="wp-block-preformatted wp-block-svq-code prettyprint">recognitionImageElement.addEventListener('change', () =&gt; {
+ if (!recognitionImageElement.files) {
+   return null;
+ }
+const file = recognitionImageElement.files[0];
+})</pre>
+
+
+
+<h6>Dealing with the&nbsp;result:</h6>
+
+
+
+<p>The result of the <code>.recognition()</code> method <sup class="svq-sidelink" data-svq-note="4"><a href="javascript:void(0)" >4</a></sup><span class="svq-sidenote will-animate" data-cssanimate="fadeIn" data-svq-note="4">A method in object-oriented programming (OOP) is a procedure asociated with a message and an object. An object consists of data and behavior. The data and behavior comprise an interface, which specifies how the object may be utilized by any of various consumers of the object.</span> is confusing, to say the least. It is not well documented and so we have to deduce some things on our own:</p>
+
+
+
+<pre class="wp-block-preformatted wp-block-svq-code prettyprint">{
+    blocks: Array[1]
+    confidence: 87
+    html: "&lt;div class='ocr_page' id='page_1' ..."
+    lines: Array[3]
+    oem: "DEFAULT"
+    paragraphs: Array[1]
+    psm: "SINGLE_BLOCK"
+    symbols: Array[33]
+    text: "Hello World↵from beyond↵the Cosmic Void↵↵"
+    version: "3.04.00"
+    words: Array[7]
+}</pre>
+
+
+
+<h6>Conclusion</h6>
+
+
+
+<p>The Javascript library provides us with a ready-to-use OCR implementation that is efficient and, for the most part, accurate. The additional advantage of the library is its immense flexibility thanks to being compatible with both Node.js and a browser. There is even an option to include custom training data which could make it work better for your specific applications.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

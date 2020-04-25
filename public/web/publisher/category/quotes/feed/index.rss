@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Quotes &#8211; Publisher</title>
+	<atom:link href="https://typer.seventhqueen.com/publisher/category/quotes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://typer.seventhqueen.com/publisher</link>
+	<description>Publishing platform template for Wordpress</description>
+	<lastBuildDate>Wed, 09 Oct 2019 15:14:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+
+<image>
+	<url>https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/12/cropped-favicon-32x32.png</url>
+	<title>Quotes &#8211; Publisher</title>
+	<link>https://typer.seventhqueen.com/publisher</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The best time to plant a tree was 20 years ago. The second best time is now.</title>
+		<link>https://typer.seventhqueen.com/publisher/the-best-time-to-plant-a-tree-was-20-years-ago-the-second-best-time-is-now/</link>
+					<comments>https://typer.seventhqueen.com/publisher/the-best-time-to-plant-a-tree-was-20-years-ago-the-second-best-time-is-now/#comments</comments>
+		
+		<dc:creator><![CDATA[Mangusta Rust]]></dc:creator>
+		<pubDate>Tue, 13 Aug 2019 09:40:00 +0000</pubDate>
+				<category><![CDATA[Good Reads]]></category>
+		<category><![CDATA[Quotes]]></category>
+		<category><![CDATA[Chinese Proverb]]></category>
+		<category><![CDATA[Motivation]]></category>
+		<category><![CDATA[Productivity]]></category>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=306</guid>
+
+					<description><![CDATA[The best time to plant a tree was 20 years ago. The second best time is now. Chinese Proverb … what this Chinese Proverb means to you now? Basically in&#160;the context of the conversation here today, this means that if you want success and growth in the future, the best time to act is now.]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-style-large"><p>The best time to plant a tree was 20 years ago. The second best time is now.</p><cite>Chinese Proverb</cite></blockquote>
+
+
+
+<h6>… what this Chinese Proverb means to you now?</h6>
+
+
+
+<p>Basically in&nbsp;the context of the conversation here today, this means that if you want success and growth in the future, the best time to act is now.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://typer.seventhqueen.com/publisher/the-best-time-to-plant-a-tree-was-20-years-ago-the-second-best-time-is-now/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Goodreads Quote</title>
+		<link>https://typer.seventhqueen.com/publisher/goodreads-quote/</link>
+					<comments>https://typer.seventhqueen.com/publisher/goodreads-quote/#comments</comments>
+		
+		<dc:creator><![CDATA[Ken]]></dc:creator>
+		<pubDate>Thu, 08 Aug 2019 13:17:45 +0000</pubDate>
+				<category><![CDATA[Good Reads]]></category>
+		<category><![CDATA[Quotes]]></category>
+		<category><![CDATA[Motivation]]></category>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=94</guid>
+
+					<description><![CDATA[When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us. Helen Keller Explain what is quotes? This is a great opportunity to have an actual conversation about this. Let&#8217;s say you can think of [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p>When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.</p><cite><strong>Helen Keller</strong></cite></blockquote>
+
+
+
+<p><strong>Explain what is quotes</strong>? This is a great opportunity to have an actual conversation about this.</p>
+
+
+
+<p>Let&#8217;s say you can think of the above quote and you can also think of any other questions you have which could make the quote more interesting and relevant in terms of what we learned. You could start a conversation with your teacher then write what you are curious about down on paper to read the quote. It is important to use your teacher&#8217;s knowledge of the subject matter to help you think up your own question or thought.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://typer.seventhqueen.com/publisher/goodreads-quote/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

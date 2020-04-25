@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Marketing &#8211; Publisher</title>
+	<atom:link href="https://typer.seventhqueen.com/publisher/tag/marketing/feed/?layout=boxed" rel="self" type="application/rss+xml" />
+	<link>https://typer.seventhqueen.com/publisher</link>
+	<description>Publishing platform template for Wordpress</description>
+	<lastBuildDate>Mon, 16 Sep 2019 13:20:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+
+<image>
+	<url>https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/12/cropped-favicon-32x32.png</url>
+	<title>Marketing &#8211; Publisher</title>
+	<link>https://typer.seventhqueen.com/publisher</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>One Thing That Never Changes About Online Marketing</title>
+		<link>https://typer.seventhqueen.com/publisher/one-thing-that-never-changes-about-online-marketing/</link>
+					<comments>https://typer.seventhqueen.com/publisher/one-thing-that-never-changes-about-online-marketing/#comments</comments>
+		
+		<dc:creator><![CDATA[Ken]]></dc:creator>
+		<pubDate>Mon, 19 Aug 2019 14:21:36 +0000</pubDate>
+				<category><![CDATA[Worldwide]]></category>
+		<category><![CDATA[Goodreads]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=432</guid>
+
+					<description><![CDATA[So what exactly was so hard about &#8220;Not Your Business&#8221;? The bottom line: If you&#8217;re a small business looking to grow online, it&#8217;s tough. It takes a lot of resources, effort and money. In fact, your success will be measured by whether you can get your content delivered on time — as opposed to just [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>So what exactly was so hard about &#8220;Not Your Business&#8221;? The bottom line: If you&#8217;re a small business looking to grow online, it&#8217;s tough. It takes a lot of resources, effort and money. In fact, your success will be measured by whether you can get your content delivered on time — as opposed to just getting it through your &#8220;recreational&#8221; business — even once you&#8217;ve created your business (remember all the times you say you don&#8217;t want to make money?).</p>
+
+
+
+<p>You may be thinking that&#8217;s because you&#8217;re not making money, so the idea is ridiculous. That said, one thing that never changes is that it&#8217;s hard to stay out of your own little bubble.</p>
+
+
+
+<p>At one point a friend of mine who was a graphic designer just started a blog named &#8220;How To Make A Living Online.&#8221; He was a big time content creator, but his content took him all over Europe and the USA and it was completely non-existent in the UK. We&#8217;d meet up and I&#8217;d talk to him or her all over again in his or her native language.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://typer.seventhqueen.com/publisher/one-thing-that-never-changes-about-online-marketing/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

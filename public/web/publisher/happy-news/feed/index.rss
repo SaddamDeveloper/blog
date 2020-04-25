@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Happy News!	</title>
+	<atom:link href="https://typer.seventhqueen.com/publisher/happy-news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://typer.seventhqueen.com/publisher/happy-news/</link>
+	<description>Publishing platform template for Wordpress</description>
+	<lastBuildDate>Sun, 22 Mar 2020 19:14:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: Demo Account		</title>
+		<link>https://typer.seventhqueen.com/publisher/happy-news/#comment-131</link>
+
+		<dc:creator><![CDATA[Demo Account]]></dc:creator>
+		<pubDate>Sun, 22 Mar 2020 19:14:27 +0000</pubDate>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=140#comment-131</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://typer.seventhqueen.com/publisher/happy-news/#comment-127&quot;&gt;Demo Account&lt;/a&gt;.
+
+WOAH]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://typer.seventhqueen.com/publisher/happy-news/#comment-127">Demo Account</a>.</p>
+<p>WOAH</p>
+<div class="svq-gallery-grid svq-gallery--view-1"><div class="svq-gallery__item"><div class="svq-gallery__image-wrapp"><a href="https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/08/Screen-Shot-2020-03-05-at-4.36.35-PM.png"  class="svq-gallery__image-link" data-fancybox="comment-gallery-131"><img width="400" height="400" src="https://typer.seventhqueen.com/publisher/wp-content/themes/typer/assets/img/placeholder.png" class="svq-gallery__image lazy" alt="" data-object-fit="cover" data-srcset="https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/08/Screen-Shot-2020-03-05-at-4.36.35-PM-700x700.png 700w, https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/08/Screen-Shot-2020-03-05-at-4.36.35-PM-150x150.png 150w, https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/08/Screen-Shot-2020-03-05-at-4.36.35-PM-350x350.png 350w, https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/08/Screen-Shot-2020-03-05-at-4.36.35-PM-240x240.png 240w, https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/08/Screen-Shot-2020-03-05-at-4.36.35-PM-120x120.png 120w, https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/08/Screen-Shot-2020-03-05-at-4.36.35-PM-100x100.png 100w" data-sizes="100vw" data-width="400" data-height="400" data-src="https://typer.seventhqueen.com/publisher/wp-content/uploads/sites/2/2019/08/Screen-Shot-2020-03-05-at-4.36.35-PM-700x700.png" /><span class="svq-img-loader"></span></a></div></div></div>]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Demo Account		</title>
+		<link>https://typer.seventhqueen.com/publisher/happy-news/#comment-127</link>
+
+		<dc:creator><![CDATA[Demo Account]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2020 06:05:58 +0000</pubDate>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=140#comment-127</guid>
+
+					<description><![CDATA[hfh]]></description>
+			<content:encoded><![CDATA[<p>hfh</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

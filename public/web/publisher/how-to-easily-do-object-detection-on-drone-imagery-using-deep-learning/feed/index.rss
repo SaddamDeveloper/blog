@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: How to easily do Object Detection on Drone Imagery using Deep learning	</title>
+	<atom:link href="https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/feed/" rel="self" type="application/rss+xml" />
+	<link>https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/</link>
+	<description>Publishing platform template for Wordpress</description>
+	<lastBuildDate>Fri, 06 Mar 2020 21:37:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: Demo Account		</title>
+		<link>https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/#comment-124</link>
+
+		<dc:creator><![CDATA[Demo Account]]></dc:creator>
+		<pubDate>Fri, 06 Mar 2020 21:37:31 +0000</pubDate>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=516#comment-124</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/#comment-104&quot;&gt;Demo Account&lt;/a&gt;.
+
+Weeee]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/#comment-104">Demo Account</a>.</p>
+<p>Weeee</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Demo Account		</title>
+		<link>https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/#comment-104</link>
+
+		<dc:creator><![CDATA[Demo Account]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2020 20:20:57 +0000</pubDate>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=516#comment-104</guid>
+
+					<description><![CDATA[eeee]]></description>
+			<content:encoded><![CDATA[<p>eeee</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Roberto		</title>
+		<link>https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/#comment-35</link>
+
+		<dc:creator><![CDATA[Roberto]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2019 12:38:37 +0000</pubDate>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=516#comment-35</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/#comment-34&quot;&gt;Roberto&lt;/a&gt;.
+
+Distracted from distraction by distraction ― T.S. Eliot]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/#comment-34">Roberto</a>.</p>
+<p>Distracted from distraction by distraction ― T.S. Eliot</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Roberto		</title>
+		<link>https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/#comment-34</link>
+
+		<dc:creator><![CDATA[Roberto]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2019 12:37:10 +0000</pubDate>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=516#comment-34</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/#comment-20&quot;&gt;Roberto&lt;/a&gt;.
+
+Google can bring you back 100,000 answers. A librarian can bring you back the right one. ― Neil Gaiman]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/#comment-20">Roberto</a>.</p>
+<p>Google can bring you back 100,000 answers. A librarian can bring you back the right one. ― Neil Gaiman</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Roberto		</title>
+		<link>https://typer.seventhqueen.com/publisher/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/#comment-20</link>
+
+		<dc:creator><![CDATA[Roberto]]></dc:creator>
+		<pubDate>Tue, 08 Oct 2019 06:40:32 +0000</pubDate>
+		<guid isPermaLink="false">https://typer.seventhqueen.com/?p=516#comment-20</guid>
+
+					<description><![CDATA[&lt;pre&gt;
+recognitionImageElement.addEventListener(\&#039;change\&#039;, () =&gt; {
+ if (!recognitionImageElement.files) {
+   return null;
+ }
+const file = recognitionImageElement.files[0];
+})
+&lt;/pre&gt;]]></description>
+			<content:encoded><![CDATA[<pre>
+recognitionImageElement.addEventListener(\'change\', () => {
+ if (!recognitionImageElement.files) {
+   return null;
+ }
+const file = recognitionImageElement.files[0];
+})
+</pre>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
